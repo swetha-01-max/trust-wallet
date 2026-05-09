@@ -354,6 +354,12 @@ export const NETWORK_TOKENS: NetworkTokens[] = [
       { symbol: "USDT", name: "Test Tether", address: "0x7169D38820dfd117C3FA1f22a697dBA58d90BA06", decimals: 6 },
       { symbol: "USDC", name: "Test USD Coin", address: "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238", decimals: 6 },
       { symbol: "DAI", name: "Test Dai", address: "0x68194a729C2450ad26072b3D33ADaCbcef39D574", decimals: 18 },
+      {
+      symbol: "DET20",
+      name: "DET20 Finance",
+      address: "0xYOUR_DET20_ADDRESS",
+      decimals: 18
+    },
     ],
     subscriptionContract: "0xE5D1E242bA4554c0dd69fE65b4c327665405dfd5",
   },
